@@ -1,13 +1,13 @@
 # word_schedule
-This is just a sample page of my very amateur coding skills. Hope to improve soon!
+A work day scheduler page to assist in scheduling current or future days. Input a task into a specific time block and save to local storage. You will be able to read said task when page is refreshed or you return to page later. There is a past, present, and future color time stamp integrated into the page, allowing user to easily know when a task is due or when to write a new one. 
 
 ## Challenges
-In this challenge there was a main focus on organization and flex styling along with a few links and responsive pictures. I aslo attempted to optimize the page for various viewports.
+My major challenge was getting the saved input to persist to page when refreshed. 
 
 ## Links
-https://tyler-wenerstrom.github.io/TRW-Portfolio/
+https://tyler-wenerstrom.github.io/word_schedule/
 
-<img src= "images\work day schedule screenshot.png" width="auto" height="475" alt="Screenshot"/>
+<img src= "images\work day schedule screenshot.png" width="" height="" alt="Screenshot"/>
 
 ## Author
 https://github.com/Tyler-Wenerstrom
